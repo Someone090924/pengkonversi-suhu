@@ -1,2 +1,3 @@
 # pengkonversi-suhu
-tools pengkonversi suhu buatan saya 
+saya sedang belajar membuat tools pengkonversi suhu
+
